@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url('./assets/Vrajesh Mirror selfie.jpg') no-repeat center;
+    background: url("https://raw.githubusercontent.com/Vrajesh-Sharma/Personal-Portfolio/main/assets/Vrajesh%20Mirror%20selfie.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
