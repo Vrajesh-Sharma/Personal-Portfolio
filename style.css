@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://t3.ftcdn.net/jpg/00/50/13/40/360_F_50134069_oESZdArAXu3vkoixTdtdAfvRNj0fuVmZ.jpg") no-repeat center;
+    background: url("/.assets/Vrajesh Mirror selfie.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
